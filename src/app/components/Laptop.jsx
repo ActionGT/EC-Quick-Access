@@ -4,7 +4,7 @@ export default function Laptop() {
   return (
     <main>
       <Spline
-       scene="https://prod.spline.design/S6S4adB6l5iuMobl/scene.splinecode" 
+       scene="https://prod.spline.design/7-EdMLpFEv-oQWMK/scene.splinecode" 
       />
     </main>
   );
